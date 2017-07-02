@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Abgabe2/Library/shadercompiler-UnityShaderCompiler.exe0.log
+*.log
+*.bakert
+Abgabe2/Temp/UnityLockfile
