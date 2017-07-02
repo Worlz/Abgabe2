@@ -32,3 +32,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.dwlt
+*.dwlt
+Abgabe2/Library/CurrentMaximizeLayout.dwlt
+Abgabe2/Library/expandedItems
+Abgabe2/Library/shadercompiler-UnityShaderCompiler.exe0.log
+Abgabe2/Library/CurrentLayout.dwlt
+Abgabe2/Library/CurrentMaximizeLayout.dwlt
