@@ -3,6 +3,9 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+/Library/
+/obj/
+/Temp/
 /Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
@@ -32,3 +35,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Abgabe2/Library/shadercompiler-UnityShaderCompiler.exe0.log
+*.log
+*.bakert
+Abgabe2/Temp/UnityLockfile
+Abgabe2/Library/expandedItems
+Abgabe2/Library/shadercompiler-UnityShaderCompiler.exe0.log
+Abgabe2/Temp/__Backupscenes/0.backup
